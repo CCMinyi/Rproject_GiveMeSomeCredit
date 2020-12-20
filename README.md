@@ -50,8 +50,6 @@ we got 0.85 in test.csv
 
 ## Conclusion
 
+In 5 fold cross validation and 10 fold cross validation , we pick different model but the result in test.csv differs greatly . 
 
-
-
-
-
+So in this case , I think that we should cut more folders to train model with big data in order to get better preformance . 
