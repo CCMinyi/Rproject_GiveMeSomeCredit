@@ -1,0 +1,2 @@
+# Rproject_GiveMeSomeCredit
+Kaggle_competition_GiveMeSomeCredit dataset
