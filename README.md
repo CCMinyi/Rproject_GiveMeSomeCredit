@@ -38,13 +38,13 @@ Thus , I pick three model to predict the probability. NaiveBayes , DecisionTree 
 
 In 5 fold cross validation Decision Tree got the highest ave.test
 
-<img src="https://github.com/CCMinyi/Rproject_GiveMeSomeCredit/blob/main/image/5%20fold%20cross%20validation.png width=500">
+<img src="https://github.com/CCMinyi/Rproject_GiveMeSomeCredit/blob/main/image/5%20fold%20cross%20validation.png" width=500>
 
 but the prediction in test.csv only got 0.65
 
 In 10 fold cross validation Linear Regression got the highest ave.test
 
-<img src="https://github.com/CCMinyi/Rproject_GiveMeSomeCredit/blob/main/image/10%20fold%20cross%20validation.png"width=500>
+<img src="https://github.com/CCMinyi/Rproject_GiveMeSomeCredit/blob/main/image/10%20fold%20cross%20validation.png" width=500>
 
 we got 0.85 in test.csv
 
