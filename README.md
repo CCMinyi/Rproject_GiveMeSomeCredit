@@ -23,3 +23,13 @@ According to the summary , the number of na is large. Portion matters ! so we ca
 we fill na with the mean value. and so do the test.csv.
 
 ## Model 
+
+Generally speaking , we would like to use logistic regression to predict the probability that 
+
+somebody will experience financial distress in the next two years.
+
+However we got the warning message from glm()
+```R
+glm.fit: fitted probabilities numerically 0 or 1 occurred
+```
+
