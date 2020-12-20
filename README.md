@@ -8,6 +8,8 @@ First with use summary() to overview training.csv and test.csv.
 
 <img src="https://github.com/CCMinyi/Rproject_GiveMeSomeCredit/blob/main/image/training%20data.png" width=480>
 
-In training.csv RevolvingUtilizationOfUnsecuredLines,NumberOfTime30.59DaysPastDueNotWorse,DebtRatio,
+In training.csv, there are some data which max value is really big such as:
+
+RevolvingUtilizationOfUnsecuredLines,NumberOfTime30.59DaysPastDueNotWorse,DebtRatio,
 
 NumberOfTimes90DaysLate,NumberRealEstateLoansOrLines and NumberOfTime60.89DaysPastDueNotWorse
